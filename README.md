@@ -28,5 +28,5 @@ Total Quality Management and Reliability | MEE401
   </tr>
   <tr>
   <td>Timings</td>
-  <td>TUE: 1600-1700<br>THU: 1700-1800<br>FRI: 1400-1500</td>
+  <td>TU: 1600-1700<br>TH: 1700-1800<br>FR: 1400-1500</td>
 </table>

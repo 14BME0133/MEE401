@@ -9,7 +9,7 @@ Total Quality Management and Reliability | MEE401
   </tr>
   <tr>
     <td>Subject</td>
-    <td><li>Total Quality Makkah and Reliability</td>
+    <td><li>Total Quality Management and Reliability</td>
   </tr>
   <tr>
     <td>Venue</td>
@@ -28,5 +28,5 @@ Total Quality Management and Reliability | MEE401
   </tr>
   <tr>
   <td>Timings</td>
-  <td>Tuesday: 1600-1700<br>Thursday: 1700-1800<br>Friday: 1400-1500</td>
+  <td>TUE: 1600-1700<br>THU: 1700-1800<br>FRI: 1400-1500</td>
 </table>
